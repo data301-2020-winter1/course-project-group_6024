@@ -13,12 +13,12 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Working with the dataset “medical expenses” will hopefully allow us to expand our knowledge in the field of our future medical bills. Out of the several examples given to us, this one stood out to us, because with this analytics project, we are hoping to learn if certain factors like higher BMI or smoking corresponds to more or less money spent on healthcare. We are interested in this topic because we are curious to see if age or sex can determine the fluctuations in medical bills. For example age plays a factor because, elderly people sometimes need more medical attention compared to young adults. Some specific question we would like to explore is what. Some other example questions we can ask is “Can we plot the regions with the oldest population and highest charges?” or “How to compare peoples BMI to the sex and age”. Yes, we can imagine building a user-facing dashboard with this dataset.
 
 ## Team Members
 
 - Jake: I am a fifth year computer science student who enjoys running and listening to music.
-- Person 2: one sentence about you!
+- Germaine: I am a third year Psychology student. I love to sing, play piano, and go on hikes 
 - Person 3: one sentence about you!
 
 ## References
