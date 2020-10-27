@@ -19,7 +19,7 @@ Working with the dataset “medical expenses” will hopefully allow us to expan
 
 - Jake: I am a fifth year computer science student who enjoys running and listening to music.
 - Germaine: I am a third year Psychology student. I love to sing, play piano, and go on hikes 
-- Person 3: one sentence about you!
+- Zach: I am a third year computer science major. Big fan of building computers and value village connaisseur
 
 ## References
 
