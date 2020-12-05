@@ -3,6 +3,9 @@
 
 NOTE for TA: our individual EDA's are in our individual analysis folders. Our group analysis is in the "submitted" folder
 
+## Video
+[![](http://img.youtube.com/vi/BwJKpKHOMng/0.jpg)](http://www.youtube.com/watch?v=BwJKpKHOMng "")
+
 
 ## Milestones
 
@@ -26,4 +29,3 @@ As a Canadian privy to paying very minimally for healthcare it is important to c
 
 Data set can be found here:
 https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
-[![](http://img.youtube.com/vi/f1HWaFjJj1I/0.jpg)](http://www.youtube.com/watch?v=f1HWaFjJj1I "")
